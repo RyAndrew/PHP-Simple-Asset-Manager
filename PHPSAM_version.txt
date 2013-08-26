@@ -1,0 +1,8 @@
+<!--<style>
+	body{
+		background-image: url(/assetManager/img/devsite.png);
+		background-repeat:no-repeat;
+		background-position:10px 150px;
+	}
+</style>-->
+<span style="color:red;">192.168.100.146 Dev Build - May be unstable</span>
